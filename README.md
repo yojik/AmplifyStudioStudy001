@@ -1,0 +1,2 @@
+# AmplifyStudioStudy001
+テスト
